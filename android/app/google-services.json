@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "226596893656",
+    "project_id": "musicy-46533",
+    "storage_bucket": "musicy-46533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226596893656:android:c631336c1235724038b8ad",
+        "android_client_info": {
+          "package_name": "com.myapp.musicy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226596893656-ibnib40i0lhpijv0csuplaplrqcnsirc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbB_tbOD-uQNBzrTHXz26Ogilxg57QHmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226596893656-ibnib40i0lhpijv0csuplaplrqcnsirc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "226596893656-v6hm6mt516q68mc8fempl71h75qd036g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp.musicy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
