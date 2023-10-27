@@ -2,9 +2,6 @@
 <p><span style="background-color: #ff0000; color: #ffffff;"><a title="https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911" href="https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911">https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911</a></span></p>
 <p>&nbsp;</p>
 
-<a href="https://drive.google.com/file/d/1fa2zc4y6UsZg7QDEp7jraYBqfRmx-ccK/view?usp=sharing” target="_blank"> 
-<img src="http://fwdtechnology.co/code_canyon_assets/newsmaster/1.png" width="1000" height="400" /> </a></p>
-
 <a href="https://youtu.be/dRSZJ9_Xplo” target="_blank"> 
 <img src="http://fwdtechnology.co/code_canyon_assets/wallpaper_master/youtube.png" width="1000" height="400" /> </a></p>
 
