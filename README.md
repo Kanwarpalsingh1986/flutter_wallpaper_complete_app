@@ -2,9 +2,6 @@
 <p><span style="background-color: #ff0000; color: #ffffff;"><a title="https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911" href="https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911">https://codecanyon.net/item/wallpaper-flutter-app-ios-android-admin-panel-author-panel/38940911</a></span></p>
 <p>&nbsp;</p>
 
-<a href="https://youtu.be/dRSZJ9_Xplo” target="_blank"> 
-<img src="http://fwdtechnology.co/code_canyon_assets/wallpaper_master/youtube.png" width="1000" height="400" /> </a></p>
-
 <p><a href="https://codecanyon.net/item/sayhi-a-complete-social-media-platform-for-your-next-tiktokinstagramfacebooksnapchat/48428152"> <img style="border: 1px solid;" src="https://firebasestorage.googleapis.com/v0/b/musicy-46533.appspot.com/o/Try%20our%20new%20Social%20media%20project.png?alt=media&token=435fde3a-96c3-4d04-b548-84b52b1e9f99" alt="Qries" /> </a></p>
 
 
